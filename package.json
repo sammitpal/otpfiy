@@ -1,6 +1,6 @@
 {
   "name": "otpfiy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "One Time Password generator for different applications",
   "main": "index.js",
   "keywords": ["OTP (One-Time Password)", "Authentication", "Security", "Two-Factor Authentication (2FA)", "Code Verification", "Mobile Verification", "Email Verification", "SMS Verification", "Multi-Factor Authentication (MFA)", "Token Generation", "Secure Login", "Verification Code", "Authentication Service", "OTP Library", "Identity Verification", "User Authentication", "Node.js (if you're using Node.js)", "Web Security", "Secure Authentication", "Open Source (if your project is open-source)"],

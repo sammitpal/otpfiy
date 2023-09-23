@@ -19,4 +19,6 @@ function generateOTP(isAlphaNumeric,length){
     return s.toUpperCase()
 }
 
-console.log(generateOTP(true,8));
+module.exports = {
+    generateOTP
+}
